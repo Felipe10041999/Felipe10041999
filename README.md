@@ -46,5 +46,5 @@ Desarrollé una solución orientada al control, consulta y administración de in
 ---
 
 <p align="center">
-  Gracias por visitar mi perfil ⭐
+  Gracias por visitar mi perfil :star:
 </p>
