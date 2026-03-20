@@ -40,13 +40,8 @@ Desarrollé una solución orientada al control, consulta y administración de in
 - Mejorando mis habilidades en desarrollo de software
 
 ## :zap: Actividad reciente
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
+<!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
-<!--RECENT_ACTIVITY:last_update_end-->
-
 
 ## :email: Contacto
 
