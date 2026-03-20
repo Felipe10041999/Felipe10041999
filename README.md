@@ -39,6 +39,15 @@ Desarrollé una solución orientada al control, consulta y administración de in
 - Fortaleciendo conocimientos en Cloud Code
 - Mejorando mis habilidades en desarrollo de software
 
+## :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
+
+
 ## :email: Contacto
 
 - **Correo:** felipemosquera364@gmail.com
