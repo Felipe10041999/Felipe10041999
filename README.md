@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hola, soy Felipe Mosquera :wave:</h1>
+<h1 align="center">Hola, soy Felipe Mosquera </h1>
 
 <p align="center">
   Tecnólogo en Análisis y Desarrollo de Software | Apasionado por la tecnología y el aprendizaje continuo
